@@ -1,4 +1,4 @@
-import React, { useRef } from "react";
+import { useRef } from "react";
 
 export default function Products() {
   const scrollRef = useRef(null);

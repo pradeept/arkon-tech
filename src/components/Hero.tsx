@@ -1,5 +1,3 @@
-import React from "react";
-
 export default function Hero() {
   const scrollToSection = (sectionId: string) => {
     const element = document.getElementById(sectionId);

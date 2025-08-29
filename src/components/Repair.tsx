@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import { useState } from "react";
 import { Phone } from "lucide-react";
 
 type repairData = {
